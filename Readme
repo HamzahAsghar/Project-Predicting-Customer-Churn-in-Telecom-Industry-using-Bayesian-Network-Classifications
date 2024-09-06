@@ -1,0 +1,19 @@
+Our coursework project consisted of two parts: 
+
+Part 1 involved Predicting Customer Churn in Telecommunications Industry using Bayesian Networks and Classification
+Part 2 involved designing a Fuzzy Logic Controller (FLC) for controlling a mobile robot.
+ 
+Part 1: 
+For Part 1, we predict customer churn in the telecommunications industry using Bayesian Networks and Classification. We divided the tasks as follows: 
+● We researched and implemented the Bayesian Network model and classification algorithms. We also performed data pre-processing and feature selection.  
+● We worked on training a Random Forest Regression model and comparing its performance with the Bayesian Network model. By comparing the performance of both models, we were able to assess the strengths and weaknesses of 
+each model in predicting customer churn. Our efforts allowed us to effectively complete Part 1 and present comprehensive results. 
+
+Part 2: 
+For Part 2, we worked on the researched, and Implementation of the FLC, also designed the robot's trajectory and tested the controller's performance. 
+We Optimize the FLC developed for Part 1, exploring different optimization techniques to improve its performance. We used particle swarm optimization on two of the CEC’2005 functions, we also used genetic algorithms on the other two functions. 
+The functions used from CEC’2005 functions are: 
+● Shifted Rosenbrock's Function
+● Shifted Schwefel's Problem 1.2 
+To further explore the effectiveness of these optimization techniques, we compared their results on the CEC’2005 functions. We were able to effectively complete Part 2 and present comprehensive results. 
+ 
